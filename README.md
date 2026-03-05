@@ -7,30 +7,6 @@ Sou interessado em desenvolver aplicações web modernas, organizadas e escaláv
 
 ---
 
-## 🛠 Tecnologias
-
-**Front-end**
-- HTML
-- CSS
-- JavaScript (ES6+)
-- Bootstrap
-- React.js
-- Next.js
-
-**Back-end**
-- Node.js
-- APIs REST
-
-**Banco de Dados**
-- MySQL
-
-**Ferramentas**
-- Git
-- GitHub
-- Vite
-
----
-
 ## 📌 Projetos em destaque
 
 **Astracode**  
@@ -61,30 +37,6 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa contrib
 🚀 Focused on **Full-Stack Web Development**
 
 I'm interested in building modern and well-structured web applications while applying good development practices and integrating **front-end, back-end and databases**.
-
----
-
-## 🛠 Technologies
-
-**Front-end**
-- HTML
-- CSS
-- JavaScript (ES6+)
-- Bootstrap
-- React.js
-- Next.js
-
-**Back-end**
-- Node.js
-- REST APIs
-
-**Database**
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- Vite
 
 ---
 

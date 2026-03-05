@@ -50,6 +50,9 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa contrib
 
 ---
 
+⭐ Explore meus repositórios para ver meus projetos e experiências em desenvolvimento!
+
+---
 # 🇺🇸 English Version
 
 ## 👋 Hello, I'm Petterson Machado
@@ -101,9 +104,7 @@ School enrollment management system developed in Java using MVC architecture.
 ## 🎯 Goal
 
 Currently looking for my **first opportunity in the tech industry** where I can contribute to web development projects and continue improving my skills as a developer.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+⭐ Check out my repositories to see my projects!

@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Petterson Machado
+# 👋 Olá, eu sou o Petterson Machado | Hello, I'm Petterson Machado
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na UNICSUL  
 🚀 Focado em **Desenvolvimento Web Full-Stack**
@@ -7,7 +7,7 @@ Sou interessado em desenvolver aplicações web modernas, organizadas e escaláv
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas | Tech Stack
 
 ### Front-end
 <div>
@@ -16,7 +16,7 @@ Sou interessado em desenvolver aplicações web modernas, organizadas e escaláv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### Back-end & Banco de Dados
+### Back-end & Database
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,20 +25,7 @@ Sou interessado em desenvolver aplicações web modernas, organizadas e escaláv
 
 ---
 
-## 📌 Projetos em destaque
-
-**Astracode**  
-Aplicação web full-stack para gerenciamento de contatos com envio e agendamento de mensagens.
-
-**Sílabas Mágicas**  
-Jogo educativo infantil para aprendizado de leitura através de desafios interativos com sílabas, incluindo progressão por fases e sistema de skins desbloqueáveis.
-
-**EducaClass**  
-Sistema de gerenciamento de matrículas escolares desenvolvido em Java utilizando arquitetura MVC.
-
----
-
-## 📊 Estatísticas
+## 📊 Estatísticas | Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettzin&layout=compact&langs_count=7&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pettzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -46,30 +33,28 @@ Sistema de gerenciamento de matrículas escolares desenvolvido em Java utilizand
 
 ---
 
-## 🎯 Objetivo
+## 📌 Projetos em destaque | Featured Projects
 
-Busco minha **primeira oportunidade na área de tecnologia**, onde possa contribuir com desenvolvimento web, aprender com profissionais da área e evoluir como desenvolvedor.
+**Astracode**  
+PT: Aplicação web full-stack para gerenciamento de contatos com envio e agendamento de mensagens.  
+EN: Full-stack web application for managing contacts with message sending and scheduling features.
 
----
+**Sílabas Mágicas**  
+PT: Jogo educativo infantil para aprendizado de leitura através de desafios interativos.  
+EN: Educational web game designed to help children learn reading through interactive challenges.
 
-⭐ Explore meus repositórios para ver meus projetos e experiências em desenvolvimento!
-
----
-# 🇺🇸 English Version
-
-## 👋 Hello, I'm Petterson Machado
-
-💻 Systems Development student at UNICSUL University  
-🚀 Focused on **Full-Stack Web Development**
-
-I'm interested in building modern and well-structured web applications while applying good development practices and integrating **front-end, back-end and databases**.
-
-## 📌 Featured Projects
-
-**Astracode** | **Sílabas Mágicas** | **EducaClass**
+**EducaClass**  
+PT: Sistema de gerenciamento de matrículas escolares desenvolvido em Java (MVC).  
+EN: School enrollment management system developed in Java using MVC architecture.
 
 ---
 
-## 🎯 Goal
+## 🎯 Objetivo | Goal
 
-Currently looking for my **first opportunity in the tech industry** where I can contribute to web development projects and continue improving my skills as a developer.
+**PT:** Busco minha **primeira oportunidade na área de tecnologia**, onde possa contribuir com desenvolvimento web e evoluir como desenvolvedor.
+
+**EN:** Currently looking for my **first opportunity in the tech industry** to contribute to web projects and continue improving my skills.
+
+---
+
+⭐ Explore meus repositórios! | Check out my repositories!
